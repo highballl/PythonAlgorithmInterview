@@ -27,4 +27,4 @@ def is_valid(sentence):
 
 
     
-print(is_valid(new_sentence)) 
+print(is_valid(new_sentence))  
