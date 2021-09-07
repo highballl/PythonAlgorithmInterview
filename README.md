@@ -1,4 +1,4 @@
-# PythonAlgorithmInterview
+# Python-Algorithm-Interview
 for Python Algorithm Interview
 
 git branch -M main
